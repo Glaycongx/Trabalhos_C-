@@ -1,1 +1,1 @@
-# Trabalhos_C++
+Trabalhos realizados na linguagem C++, nível básico
